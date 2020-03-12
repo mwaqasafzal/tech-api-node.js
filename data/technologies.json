@@ -1,0 +1,52 @@
+[
+    {
+        "name":"express.js",
+        "organization":"strongloop",
+        "language":"node.js",
+        "purpose":"backend web development",
+        "type":"framework",
+        "nature":"opensource",
+        "gitlink":"https://github.com/expressjs/express",
+        "released":"2010-11-16",
+        "currentRelease":4.17
+    },{
+        "name":"react.js",
+        "organization":"facebook",
+        "language":"javascript",
+        "purpose":"frontend web development",
+        "type":"library",
+        "nature":"opensource",
+        "gitlink":"https://github.com/facebook/react",
+        "released":"2013-05-29",
+        "currentRelease":16.12
+    },{
+        "name":"spring",
+        "organization":"Pivotal Software",
+        "language":"java",
+        "purpose":"backend web development",
+        "type":"framework",
+        "nature":"proprietary",
+        "released":"2002-10-1",
+        "currentRelease":5.2
+    },{
+        "name":"react native",
+        "organization":"facebook",
+        "language":"javascript",
+        "purpose":"hybrid mobile app development",
+        "type":"framework",
+        "nature":"opensource",
+        "gitlink":"https://github.com/facebook/react-native",
+        "released":"2015-03-26",
+        "currentRelease":0.61
+    },{
+        "name":"angular",
+        "organization":"google",
+        "language":"javascript",
+        "purpose":"fontend web app development",
+        "type":"framework",
+        "nature":"opensource",
+        "gitlink":"https://github.com/angular/angular",
+        "released":"2016-09-14",
+        "currentRelease":9.0
+    }
+]
